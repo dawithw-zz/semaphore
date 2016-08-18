@@ -1,10 +1,11 @@
 # Semaphores in OpenBSD 3.5
 
-** Overview ** 
+**Overview** 
+
 This is a project from Operating Systems class by Dave Small (2015). The idea is to modify the kernel of the OS to add semaphore support as a system call.
 
 
-** Modified kernel files **
+**Kernel Files (Modified)**
 
 syscall.masters
 
@@ -19,10 +20,10 @@ syscall.masters
 cop4600.c  (not part of the original kernel)
 
 
-** Testing **
+**Test File**
 
-File: 
 kerntest.c
 
-** Bugs **
+**Bugs**
+
 There are some known bugs in the program that were not documented
