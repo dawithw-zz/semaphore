@@ -15,7 +15,7 @@ syscall.masters
 - In __usr/src/sys/sys/__
   -proc.h
 
-> Note: The files above are from the kernel of the OpenBSD 3.5, with the modified code annotated by comments.
+> Note: The files above are from the kernel of the OpenBSD 3.5. Modified code is annotated by comments.
 
 cop4600.c  (not part of the original kernel)
 
