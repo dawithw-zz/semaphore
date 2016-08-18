@@ -7,13 +7,10 @@ This is a project from Operating Systems class by Dave Small (2015). The idea is
 
 **Kernel Files (Modified)**
 
-syscall.masters
-
-- In __usr/src/sys/kern/__
-  - kern_exit.c  
-  - kern_fork.c
-- In __usr/src/sys/sys/__
-  -proc.h
+- syscall.masters
+- proc.h --- usr/src/sys/sys/
+- kern_exit.c --- usr/src/sys/kern/
+- kern_fork.c --- usr/src/sys/kern/
 
 > Note: The files above are from the kernel of the OpenBSD 3.5. Modified code is annotated by comments.
 
