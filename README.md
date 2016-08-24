@@ -2,7 +2,7 @@
 
 **Overview** 
 
-This is a project from Operating Systems class by Dave Small (2015). The idea is to modify the kernel of the OS to add semaphore support as a system call.
+This is a project from my Operating Systems course. The idea is to modify the kernel and add semaphore support (as a system call).
 
 
 **Kernel Files (Modified)**
